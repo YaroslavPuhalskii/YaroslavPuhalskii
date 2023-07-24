@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+:computer: [Codewars link](https://www.codewars.com/users/Yaroslav%20Puhalskii) 
 <!--
 **YaroslavPuhalskii/YaroslavPuhalskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
